@@ -236,3 +236,9 @@ if st.session_state.get("generated_draft"):
         mime="text/markdown",
     )
 Add initial meeting assistant app
+
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.streamlit/secrets.toml
