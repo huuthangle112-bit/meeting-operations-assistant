@@ -1,5 +1,3 @@
-# meeting-operations-assistant
-AI-assisted workflow for drafting meeting agendas, minutes, and action items with human review.
 # Meeting Operations Assistant
 
 An independently built portfolio prototype demonstrating how AI can support repetitive meeting operations while preserving human review.
