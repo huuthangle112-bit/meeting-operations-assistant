@@ -235,9 +235,3 @@ if st.session_state.get("generated_draft"):
         file_name="meeting_draft.md",
         mime="text/markdown",
     )
-
-__pycache__/
-*.py[cod]
-.venv/
-.env
-.streamlit/secrets.toml
