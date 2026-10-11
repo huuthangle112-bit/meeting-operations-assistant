@@ -235,7 +235,6 @@ if st.session_state.get("generated_draft"):
         file_name="meeting_draft.md",
         mime="text/markdown",
     )
-Add initial meeting assistant app
 
 __pycache__/
 *.py[cod]
